@@ -39,6 +39,7 @@ ECNU软件工程实践课程项目。
            录入课程表
            
 （5）主屏幕：
+
  ![image](https://github.com/10195101456/ECNU_SE_project/blob/homework/assignments/A1_10195101456_%E5%86%89%E6%B3%93%E9%A3%9E/YJK1SW9R0%5D7LXLWK%5D%7BV8RSF.jpg)
 
 （6）分工：
